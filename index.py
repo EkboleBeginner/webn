@@ -1,4 +1,4 @@
-#!C:\Users\Administrator\AppData\Local\Programs\Python\Python36-32\python.exe
+#!python
 print("Content-Type:text/html; charset=UTF-8\n")
 
 #docstring
